@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    text color: aquamarine;
+}
+h1{
+    text-align: center;
+    font-family: fantasy;
+}
+#Apps{
+    width: auto;
+    height: auto;
+    background-color: chocolate;
+}
+#Games{
+    width: auto;
+    height: auto;
+    background-color: crimson;
+}
+#Chatbots{
+    width: auto;
+    height: auto;
+    background-color:cyan;
+}
+.line{
+    height: auto;
+    width: auto;
+    margin: auto;
+    background-color: fuchsia;
+}
+#contact iframe { width: 100%; } .contact_1 h3 { display: inline; } .contact_1 a { text-shadow: none; }
+#myCarousel{
+    background-color: red;
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size:20px;
+}
